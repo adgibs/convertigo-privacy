@@ -1,15 +1,15 @@
-# convertify-privacy
-# Privacy Policy for Convertify
+# Convertigo-privacy
+# Privacy Policy for Convertigo
 
 **Last Updated: February 5, 2026**
 
 ## Overview
 
-Convertify ("the App") is developed by Andrew G. This privacy policy explains how the App handles your information.
+Convertigo ("the App") is developed by Andrew G. This privacy policy explains how the App handles your information.
 
 ## Data Collection
 
-**Convertify does not collect, store, or transmit any personal data.**
+**Convertigo does not collect, store, or transmit any personal data.**
 
 The App:
 - Does NOT require an account or login
@@ -33,7 +33,7 @@ The App contains a link to Ko-fi (ko-fi.com) for optional donations. If you choo
 
 ## Children's Privacy
 
-Convertify does not collect any data from anyone, including children under 13.
+Convertigo does not collect any data from anyone, including children under 13.
 
 ## Changes to This Policy
 
@@ -44,7 +44,7 @@ If this privacy policy changes, the updated version will be posted here with a n
 If you have questions about this privacy policy, please contact:
 
 **Andrew G**
-Email: [convertify.conversion.app@gmail.com]
+Email: [Convertigo.conversion.app@gmail.com]
 
 ---
 
